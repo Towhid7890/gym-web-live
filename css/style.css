@@ -1,0 +1,58 @@
+body {
+  background: #fff; }
+
+#home-section {
+  background: url(../img/home-bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 580px;
+  background-attachment: fixed;
+  position: relative; }
+
+.overlay {
+  background-color: rgba(0, 0, 0, 0.6);
+  min-height: 580px;
+  top: 0;
+  left: 0; }
+
+h2 {
+  font-weight: 600;
+  font-size: 60px;
+  font-family: sans-serif; }
+
+.par-size {
+  font-size: 1.5rem; }
+
+.gray {
+  background-color: #f1e0e0; }
+
+#trainer-section .icon {
+  border-radius: 1px;
+  color: #c9c6c1;
+  font-size: 40px; }
+
+#trainer-section .icon:hover {
+  background-color: darkcyan;
+ }
+ #customer-section{
+  background: url(../img/customer1.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  min-height: 500px;
+  background-repeat: no-repeat;
+}
+#unlish{
+  background: rgb(245, 240, 240);
+}
+.dollar{
+ background: whitesmoke;
+  height: 100px;
+}
+.btn-style{
+  margin-top: -150px;
+  border-radius: 5px;
+}
+.f-style{
+  width: 50%;
+  display: inline;
+}
